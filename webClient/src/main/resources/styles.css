@@ -1,0 +1,11 @@
+.message {
+    color : green;
+    text-align: center;
+}
+
+div {
+    background-color: #d3d3d3;
+    border-width: 2px;
+    border-color: #ee82ee;
+    border-style: solid;
+}
